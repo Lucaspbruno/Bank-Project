@@ -8,7 +8,8 @@ The focus of this repository is to develop a system for banks. This version has 
 - Account Statement
 - Exit
 
-This is the first version, but in the future, my intention is to commit the second version to this repository.
+On This first version, you can interact with the functions and add or retire your virtual "money". 
+My plan for the future is commit a new version that will have additional functions and new interactions.
 
 ##Language 📖
 
