@@ -1,7 +1,7 @@
 # Bank Project
 
 
-The focus of this repository is to develop a system for banks. The system in its first version has four options:
+The focus of this repository is to develop a system for banks. This version has four options:
 
 - Deposit
 - Withdrawn
