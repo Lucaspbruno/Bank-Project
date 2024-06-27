@@ -8,9 +8,13 @@ The focus of this repository is to develop a system for banks. This version has 
 - Account Statement
 - Exit
 
-On This first version, you can interact with the functions and add or retire your virtual "money". 
-My plan for the future is commit a new version that will have additional functions and new interactions.
+This Repository has the Versions of Bank Program and recently added a new update, that implements functions such as creating a user, creating an account, and a verified system that authenticates the user for the number of ids (cpf).
+To execute the program, fork or copy the code and add it to your compilator.
 
-##Language 📖
+# Future Plans
+- Add an improved Version of the program.
+- Implement a database if possible (SQL or NoSQL).
+
+##Language Used 📖
 
 - Phyton
