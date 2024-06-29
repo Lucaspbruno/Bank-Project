@@ -14,9 +14,9 @@ Version 2.0 of the banking program brings significant improvements and new featu
 # https://github.com/Lucaspbruno/Bank-Project/blob/main/Bank_Program_Version_2.0.py
 
 # How to Use
-- Download the Bank_Program_Version_1.0.py file.
+- Download the Bank_Program_Version_2.0.py file.
 - Open a terminal or command prompt.
 - Navigate to the directory where the file is located.
-- Run the program by typing python Bank_Program_Version_1.0.py.
+- Run the program by typing python Bank_Program_Version_2.0.py.
 # Requirements
 - Python 3 installed on your system.
