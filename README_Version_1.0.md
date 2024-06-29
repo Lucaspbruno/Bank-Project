@@ -12,11 +12,9 @@ The first version of the program offers basic functionalities for bank account m
   - Withdraw
   - Check Balance
 
-- **Source Code:**
   
-  ```python
-  # Source code for version 1.0 available at:
-  # https://github.com/Lucaspbruno/Bank-Project/blob/main/Bank_Program_Version_1.0.py
+# Source code for version 1.0 available at:
+- https://github.com/Lucaspbruno/Bank-Project/blob/main/Bank_Program_Version_1.0.py
 
 # How to Use
 - Download the Bank_Program_Version_1.0.py file.
