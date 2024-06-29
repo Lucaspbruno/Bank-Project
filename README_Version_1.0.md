@@ -1,4 +1,4 @@
-# Bank Program Version 1.0
+# Bank Program
 
 This document provides an overview of the different versions of the banking program developed by Lucas P. Bruno.
 
